@@ -17967,11 +17967,6 @@
 	icon_state = "yellowrustysolid"
 	},
 /area/f13/enclave)
-"mYL" = (
-/obj/structure/table,
-/obj/effect/spawner/lootdrop/f13/blueprintHigh,
-/turf/open/indestructible/ground/inside/subway,
-/area/f13/tunnel)
 "mYV" = (
 /obj/structure/decoration/vent/rusty,
 /turf/closed/wall/r_wall/rust,
@@ -31995,10 +31990,6 @@
 "ylk" = (
 /obj/effect/decal/cleanable/dirt,
 /obj/structure/rack/shelf_metal,
-/obj/item/clothing/suit/armor/f13/combat/brotherhood/initiate/mk2,
-/obj/item/clothing/head/helmet/f13/combat/brotherhood/initiate/mk2,
-/obj/item/clothing/suit/armor/f13/combat/brotherhood/initiate/mk2,
-/obj/item/clothing/head/helmet/f13/combat/brotherhood/initiate/mk2,
 /obj/machinery/light/small{
 	dir = 8
 	},
@@ -89323,8 +89314,8 @@ vPg
 vPg
 vPg
 eLE
-vPg
-vPg
+eLE
+eLE
 nBk
 nBk
 nBk
@@ -89581,10 +89572,10 @@ eLE
 eLE
 aoj
 aoj
-aoj
-aoj
-aoj
-vPg
+eLE
+eLE
+eLE
+eLE
 nBk
 nBk
 nBk
@@ -90346,7 +90337,7 @@ vPg
 vPg
 eLE
 vPg
-mYL
+qUv
 nBk
 xkh
 iCA
